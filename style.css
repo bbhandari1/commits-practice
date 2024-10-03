@@ -2,10 +2,17 @@ header{
     background-color: aqua;
 }
 
+body{
+    margin: 0;
+}
 main{
     background-color: blue;
 }
 
 footer{
-    background-color: #010101;
+    background-color: lightblue;
+}
+
+ul{
+    margin: 0;
 }
